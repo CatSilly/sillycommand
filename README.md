@@ -29,5 +29,5 @@ about main:
 ## File extensions
 ``.scm, .sicm, .sillycmd, .scmd``
 
-# License
+## License
 MIT
